@@ -4,6 +4,10 @@ An interactive Power BI dashboard for AtliQ Hardware covering Finance, Sales, Ma
 
 ---
 
+> Note: Due to GitHub file size limitations, the original `.pbix` file is not uploaded. The live dashboard and project documentation are provided instead.
+
+---
+
 ## Overview
 
 Business Insights 360 is a centralized Power BI dashboard designed to analyze AtliQ Hardware’s business performance across multiple functions. The report includes Finance, Sales, Marketing, Supply Chain, and Executive views to support better business decisions through data storytelling and KPI monitoring.
@@ -80,3 +84,4 @@ Businesses often struggle to monitor performance across departments using discon
 ## Note
 
 This project is created for portfolio and learning purposes to demonstrate end-to-end business intelligence reporting using Power BI.
+
