@@ -50,7 +50,7 @@ Business Insights 360 is a centralized Power BI dashboard designed to analyze At
 
 - **Live Dashboard:** [View Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=41a16947-b0ef-4f61-a1f7-ee907e932f95&autoAuth=true&ctid=6b807360-f0db-4585-b934-8b35e02bb669)
 - **Presentation Video:** [Watch on YouTube](https://youtu.be/o00QXmpwJDk?si=dlg6qhV_M-6uGG4t)
-- **LinkedIn Explanation Video:** Coming soon
+- **LinkedIn Explanation Video:** [View LinkedIn Engagement](https://www.linkedin.com/posts/namratha-ravula_powerbi-businessintelligence-dataanalytics-activity-7441512617824743424-oIHP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-2POMBXhq2oXj94XjyWKK8nb5c4ZnTz6w)
 
 ---
 
